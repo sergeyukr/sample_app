@@ -1,0 +1,3 @@
+git remote add origin https://github.com/sergeyukr/sample_app.git
+git push -u origin master
+
